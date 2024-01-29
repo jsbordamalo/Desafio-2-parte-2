@@ -1,0 +1,25 @@
+.html{
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.body{
+    background-color: darkturquoise;
+    text-align: center;
+}
+
+.body .header{
+    color: gold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.body .main .img{
+    flex-wrap: wrap;
+    float: left;
+    width: 150px;
+    height: 100px;
+    margin: 0.5em;
+    border:8px solid white;
+    justify-content: center;
+}
